@@ -1,3 +1,3 @@
-# clinicaOftalmologicaVBA
+# Clinica_oftalmologica_VBA
 
-#Refazendo trabalho da faculdade.
+Trabalho da faculdade reformulado com tema de uma clínica oftalmológica sobre planilha do Excel e sistema em VBA
